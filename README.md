@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **shubhamsdey@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12XUWAq5vtsDIySlE_NkBnsXr2vUI5P4Y/edit?usp=drive_link&ouid=117535606626348659438&rtpof=true&sd=true](https://docs.google.com/document/d/12XUWAq5vtsDIySlE_NkBnsXr2vUI5P4Y/edit?usp=drive_link&ouid=117535606626348659438&rtpof=true&sd=true)
-
+- 📄 Know about my experiences(https://shorturl.at/cyfRE)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://shorturl.at/vTJTD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-d-0a900812a" height="30" width="40" /></a>
