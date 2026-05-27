@@ -1,16 +1,222 @@
 <h1 align="center">Hi 👋, I'm Shubham Dey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **web development**
+<h3 align="center">
+Backend Developer | Laravel Developer | MERN Stack Developer | Cloud Enthusiast
+</h3>
 
-- 📫 How to reach me **shubhamsdey@gmail.com**
-
-- 📄 Know about my experiences(https://shorturl.at/cyfRE)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://shorturl.at/vTJTD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-d-0a900812a" height="30" width="40" /></a>
+<p align="center">
+Building scalable applications • Backend Engineering • System Administration • Problem Solver
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shubham4dey&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science & Engineering (Gaming Technology)
+
+🏫 Vellore Institute of Technology (VIT Bhopal)
+
+💼 Back End Developer & System Administration
+
+☁ Google Cloud Certified Cloud Digital Leader
+
+🔥 Skilled in Laravel, PHP MVC, MERN Stack Development
+
+📚 Former Tech Content Developer Intern @ Unstop
+
+👨‍💻 Backend Engineering + System Administration
+
+🧠 Strong in Java, Python, C++, PHP
+
+🌱 Currently exploring scalable backend architecture and cloud technologies
+
+⚡ Passionate about building impactful software solutions
+
+---
+
+## 💼 Experience
+
+### 🚀 Back End Developer And System Administration
+Bluconnet Media Pvt Ltd
+
+May 2026 – Present
+
+• Laravel Development
+
+• Backend Engineering
+
+• System Administration
+
+• Modern Backend Technologies
+
+---
+
+### 💻 Advanced PHP And MVC (Laravel)
+
+WEBSKITTERS TECHNOLOGY SOLUTIONS
+
+Internship
+
+Feb 2025 – May 2026
+
+• Laravel Development
+
+• MVC Architecture
+
+• Backend Application Development
+
+• Database Management
+
+---
+
+### 📚 Content Development Tech Internship
+
+Unstop
+
+Oct 2024 – May 2026
+
+• Python Development
+
+• Java Development
+
+• C++ Development
+
+• Created 20+ educational content pieces
+
+• Tech Assessments Development
+
+• Technical Content Optimization
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### Frontend
+
+React
+
+HTML
+
+CSS
+
+Bootstrap
+
+AJAX
+
+jQuery
+
+---
+
+### Backend
+
+Laravel
+
+Node.js
+
+Express.js
+
+PHP MVC
+
+REST API
+
+---
+
+### Database
+
+MongoDB
+
+MySQL
+
+---
+
+### Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Google Cloud
+
+XAMPP
+
+Postman
+
+---
+
+## 🏆 Certifications
+
+🏅 Google Cloud Certified Cloud Digital Leader
+
+🏅 ROBUSTA 2.0 E-PHANTOMS
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shubham4dey&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4dey&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shubham4dey&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+📌 Student Management Application
+
+React Native + Node.js + MongoDB
+
+📌 PHP CRUD System
+
+PHP + PDO + AJAX + MySQL
+
+📌 Blog Management Application
+
+PHP + Authentication + CRUD
+
+📌 Laravel Backend Systems
+
+Modern Backend Solutions
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn
+
+Email: shubhamsdey@gmail.com
+
+---
+
+<h3 align="center">
+Thanks for visiting ❤️
+</h3>
