@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🛒 BLUVIBE</h3>
+      <h3> BLUVIBE</h3>
       <p><em>Premium E-Commerce Platform</em></p>
       <p>Full-stack commerce platform featuring secure authentication, cart & wishlist management, user reviews, and comprehensive admin controls with a responsive UI.</p>
       <p>
@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td width="100%" colspan="2">
-      <h3>🌐 Production Web Platforms</h3>
+      <h3> Production Web Platforms</h3>
       <p><em>Client-Facing Business Solutions</em></p>
       <p>Designed, deployed, and maintained production-grade websites for business clients, handling end-to-end development, hosting, domain management, and continuous maintenance.</p>
       <p>
@@ -116,24 +116,16 @@
 
 ---
 
-### 📊 &nbsp;GitHub Analytics
+## 📊 GitHub Impact & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham4dey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4dey&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubham4dey&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham4dey&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Activity Graph" />
+  <b>🐍 Contribution Snake Animation</b><br><br>
+  <img src="https://raw.githubusercontent.com/shubham4dey/shubham4dey/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
 ---
 
-### 🎸 &nbsp;Beyond Code
+## 🎸 Beyond Code
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎸-Guitar-FF2D20?style=for-the-badge" />
@@ -144,7 +136,7 @@
 
 ---
 
-### 🤝 &nbsp;Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-d-0a900812a/" target="_blank">
@@ -162,5 +154,5 @@
 </p>
 
 <p align="center">
-  <i>✨ Building. Shipping. Evolving. 🚀</i>
+  <i>✨ Building. Shipping. Evolving. </i>
 </p>
